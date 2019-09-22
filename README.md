@@ -1,0 +1,2 @@
+# luck-number
+luck number
