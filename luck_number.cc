@@ -1,8 +1,8 @@
 #include <random>
 #include <iostream>
 #include <ctime>
-#include<vector>
-#include<algorithm>
+#include <vector>
+#include <algorithm>
 
 using namespace std;
 
